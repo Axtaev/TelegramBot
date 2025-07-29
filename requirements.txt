@@ -1,0 +1,7 @@
+python-telegram-bot==20.7
+openai
+apscheduler
+nest_asyncio
+python-dotenv
+telegram
+pytz
